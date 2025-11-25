@@ -75,17 +75,3 @@ nlp/
 | **Captures Financial Nuance** | ⭐⭐⭐⭐ Best | ⭐⭐⭐ Strong | ⭐⭐ Medium | ⭐ Low |
 | **Determinism** | Low–Medium | High | High | Very High |
 | **Best Use Cases** | Reasoning text, credit outlook, narrative risk | Rated text, credit sentiment, NER | Production classification, low-latency | Baseline model, sanity checks |
-
-## 🔧 Setup
-
-### 1. Install dependencies
-
-```
-mamba install -y scikit-learn
-mamba install -y xgboost
-mamba install -y transformers
-mamba install -y torch
-mamba install -y openai
-mamba install -y spacy
-python -m spacy download en_core_web_sm
-```

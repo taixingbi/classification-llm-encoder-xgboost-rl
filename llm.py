@@ -29,7 +29,6 @@ def classify_text(text: str) -> str:
     label = resp.output[0].content[0].text.strip().lower()
     return label
 
-
 if __name__ == "__main__":
     preds = []
 
