@@ -1,0 +1,10 @@
+Moody's Machine Learning Engineer (NLP) Hiring Test Powered by HackerRank Welcome to the Moody's HackerRank Challenge! The purpose of this challenge is to help us assess your areas of strength. You will have a set amount of time to complete the test. Once your results have been captured, we will be in touch with next steps. Please complete this assessment by Monday, Dec 1st. You are FREE to use any methods for the 
+
+NLP classification task, including logistic regression, tree methods, deep learning models, encoder models, decoder models, or context engineering. We are looking for a strong understanding of methodology for solving NLP tasks, demonstrated through high-quality code. The default environment does not include common NLP packages, so you will need to install them. Below are example packages you may find useful: !mamba install -y spacy !mamba install -y transformers !mamba install -y openai The test consists of different technical questions, such as writing queries, analyzing data sets, writing code, and/or problem solving. Please complete the assessment at your earliest convenience. Once you begin the test, it must be completed within the total minutes assigned. If you believe you might need a reasonable accommodation to complete the assessment, please email accommodations@moodys.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. At Moody's, we are committed to empowering our clients and our people with the tools, technology, and resources they need to create a better future -- for themselves, and for the communities we work and live in. Be a part of our expert teams working to create ground-breaking technology impacting our world today, and for generations to come. We are actively seeking the best and brightest minds to help us reach our goal. Welcome to the world of Moody's. Thank you, Moody's Talent Attraction Team You have been invited to attend the challenge Moody's Machine Learning Engineer (NLP) Hiring Test. We wish you all the best!
+
+
+classification:
+logistic regression
+tree method
+encoder models
+decoder models

@@ -1,0 +1,8 @@
+spacy
+transformers
+openai
+scikit-learn
+transformers
+torch
+notebook
+xgboost
